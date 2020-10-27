@@ -1,0 +1,55 @@
+
+================================================================
+1. Domaci GRID: 
+FOLDER: GRID
+
+- Koristeci CSS3 i HTML5 napraviti stranicu kao na prilozenim slikama
+koristeci flexbox, grid itd. Zatim napisati @media upite za odradjenu stranicu
+tako da bude prikazana u odredjenom rasporedu kao sa slike za odgovarajucu 
+rezoluciju dostavljenu u ovom zadatku.
+
+Prilozene slike i rezolucije:
+
+naziv slike:		rezolucije:
+Web Browser:		1920 x 1080
+iPad landscape mode:	1024px
+iPad portrait mode:	768px
+iPhone X/XS:		375px
+
+
+================================================================
+
+2. Domaci HERO
+FOLDER: HERO
+
+- U ovom zadatku potrebno je da iskodirate stranicu kao u dostavljenoj 
+slici 'HeroTemplate.png'. Primer boja imate na slici 'Boje.png' kao i koriscene
+slike u templejtu koje se nalaze u folder 'assets'. Style je potrebno pisati u SCSS 
+sintaksi.
+
+================================================================
+
+3. Domaci STYLE
+
+- Kod ovog zadataka cilj je da ispratite uputstva koja se nalaze u opisu zadataka na 'index.html' stranici
+i stilizujete elemente koji se vec nalaze na stranici koristeci SCSS sintaksu.
+
+================================================================
+
+4. Domaci Template.png
+
+- Napraviti izgled sekcije kao u prilozenoj slici 'template.png' na slici se nalazi 
+izmenjen stil za pojedine elemente u odnosu na to da li je izvrsena neka akcija nad tim elementom
+takodje i kod ovog zadatka potrebno je koristiti SCSS sintaksu za stilizovanje.
+
+================================================================
+NAPOMENA: U datim primerima na slikama su navedene samo referentne vrednosti i velicine, nije potrebno kopirati iste 1:1
+vec slobodno mozete da izmenite neke delove, stilove i izgled pojedinih delova po vasoj zelji. Ali je bitno
+zadrzati strukturu i priblizan izgled onome sto je dostavljeno kao primer. boje i slike su potpuno proizvoljne.
+
+================================================================
+
+Ukoliko imate bilo kakvo pitanje ili nedoumicu oko nekog zadatka. Problem oko resavanja ili primedbu 
+Slobodno pisite na mail: aleksandar.petrovic@itcentar.rs ili na viber grupu.
+
+SRECAN RAD!!!!

@@ -1,0 +1,38 @@
+body, html {
+  margin: 20px;
+}
+
+.row {
+  border: 5px solid red;
+  padding: 20px;
+}
+
+.slika img {
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+}
+
+.desno p {
+  border: #5050e0 2px solid;
+  padding: 5px;
+  margin-bottom: 30px;
+}
+
+.desno p:first-child {
+  background-color: #6767db;
+  color: white;
+}
+
+.dugme button {
+  margin-left: 20px;
+  background-color: #4f4fe6;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  height: 40px;
+  width: 120px;
+  -webkit-box-shadow: 5px 5px 5px #6d77c9;
+          box-shadow: 5px 5px 5px #6d77c9;
+}
+/*# sourceMappingURL=style.css.map */

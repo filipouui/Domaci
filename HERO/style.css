@@ -1,0 +1,128 @@
+.navbar {
+  background-color: white !important;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: #00b1ff !important;
+  padding-right: 30px;
+  font-size: 1.2rem;
+}
+
+.navbar .navbar-nav .ikona {
+  width: 30px;
+  height: 30px;
+}
+
+.grid-container {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: auto auto auto auto;
+      grid-template-columns: auto auto auto auto;
+  grid-gap: 5px;
+}
+
+.grid-container img {
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: auto;
+}
+
+.grid-container .slika1 {
+  -ms-grid-row: 1;
+      grid-row-start: 1;
+  grid-row-end: 5;
+  -ms-grid-column: 1;
+      grid-column-start: 1;
+  grid-column-end: 3;
+  position: relative;
+  height: 600px;
+  width: 50vw;
+}
+
+.grid-container .slika1 h1 {
+  position: absolute;
+  left: 58px;
+  top: 225px;
+  color: white;
+}
+
+.grid-container .slika1 img {
+  height: 655px;
+  opacity: 1;
+}
+
+.grid-container .slika2, .grid-container .slika3 {
+  -ms-grid-row: 1;
+      grid-row-start: 1;
+  grid-row-end: 3;
+}
+
+.grid-container .slika2 img, .grid-container .slika3 img {
+  height: 300px;
+}
+
+.grid-container .slika4 {
+  -ms-grid-row: 3;
+      grid-row-start: 3;
+  grid-row-end: 5;
+  -ms-grid-column: 3;
+      grid-column-start: 3;
+  grid-column-end: 5;
+}
+
+.grid-container .slika4 img {
+  height: 350px;
+}
+
+.naslov {
+  font-size: 4rem;
+  color: #484848;
+}
+
+.grid-container2 {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: auto auto auto auto;
+      grid-template-columns: auto auto auto auto;
+}
+
+.grid-container2 .item {
+  margin: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.grid-container2 .item img {
+  height: 150px;
+  width: 150px;
+  border: #ABCDEE 3px solid;
+  padding: 30px;
+  border-radius: 20px;
+  -webkit-box-shadow: -10px 23px 30px 0px #ada7a7;
+          box-shadow: -10px 23px 30px 0px #ada7a7;
+}
+
+.grid-container2 .item h1 {
+  font-size: 1.8rem;
+  margin-top: 20px;
+  color: #484848;
+}
+
+.futer {
+  background-color: #484848;
+  height: 100px;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
