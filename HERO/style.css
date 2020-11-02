@@ -78,4 +78,25 @@
   height: 100px;
   color: white;
 }
+
+.services {
+  padding: 0px 50px;
+  margin-top: 50px;
+}
+
+.services img {
+  height: 150px;
+  width: 150px;
+  padding: 20px;
+  border: solid 7px #A8CDEE;
+  -webkit-box-shadow: -10px 23px 30px #bdafaf;
+          box-shadow: -10px 23px 30px #bdafaf;
+  border-radius: 20px;
+}
+
+.services h2 {
+  margin-top: 25px;
+  padding: 10px;
+  color: #484848;
+}
 /*# sourceMappingURL=style.css.map */
