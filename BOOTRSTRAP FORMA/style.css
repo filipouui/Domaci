@@ -1,0 +1,24 @@
+.forma {
+  width: 35%;
+}
+
+.forma img {
+  height: 70px;
+}
+
+.forma .naslov {
+  font-size: 1.8rem;
+}
+
+.forma input {
+  height: 45px;
+}
+
+.forma button {
+  height: 45px;
+}
+
+.forma .form-check-input {
+  position: relative;
+}
+/*# sourceMappingURL=style.css.map */

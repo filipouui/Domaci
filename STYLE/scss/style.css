@@ -61,7 +61,7 @@ button[type=submit] {
           align-items: flex-end;
 }
 
-.input-field {
+.input-group {
   border: 2px solid #FF9800;
   padding: 5px 15px;
   font-size: 16px;

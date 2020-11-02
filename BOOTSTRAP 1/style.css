@@ -1,0 +1,38 @@
+.lista a {
+  padding-left: 10px;
+  color: #636262;
+}
+
+.lista a:hover {
+  color: blue;
+}
+
+.nav-down {
+  background-color: white;
+}
+
+.bootstrap img {
+  width: 64px;
+  height: 64px;
+}
+
+.ikonice {
+  font-size: 12px;
+  color: gray;
+}
+
+.ikonice img {
+  height: 45px;
+  width: 40px;
+}
+
+.ikonice h5 {
+  font-size: 1rem;
+  color: black;
+}
+
+.ikonice h3 {
+  font-size: 1.3rem;
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */

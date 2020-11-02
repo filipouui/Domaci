@@ -19,7 +19,7 @@ body, html {
   margin-bottom: 30px;
 }
 
-.desno p:first-child {
+.desno p:hover {
   background-color: #6767db;
   color: white;
 }
